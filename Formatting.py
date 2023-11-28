@@ -3,7 +3,7 @@ from datetime import datetime
 # Aaron Deaver
 current_date = datetime.now()
 print(current_date)  # November 12th, 2023
-# ITS Python Certification Review - Problem 1 (string format method)
+
 #
 TAX_RATE = 0.07
 
